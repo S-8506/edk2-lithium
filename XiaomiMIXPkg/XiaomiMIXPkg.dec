@@ -37,9 +37,9 @@
 
 [PcdsFixedAtBuild.common]
   # Simple FrameBuffer
-  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x00400000|UINT32|0x0000a400
+  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x80400000|UINT32|0x0000a400
   gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1080|UINT32|0x0000a401
-  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|1920|UINT32|0x0000a402
+  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2040|UINT32|0x0000a402
   gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferPixelBpp|32|UINT32|0x0000a403
   gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferVisibleWidth|1080|UINT32|0x0000a404
-  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferVisibleHeight|1920|UINT32|0x0000a405
+  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferVisibleHeight|2040|UINT32|0x0000a405

@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_DXE_DEPEX -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/79E4A61C-ED73-4312-94FE-E3E7563362A9PrintDxe/79E4A61C-ED73-4312-94FE-E3E7563362A9SEC1.1.dpx /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/PrintDxe/PrintDxe/OUTPUT/PrintDxe.depex

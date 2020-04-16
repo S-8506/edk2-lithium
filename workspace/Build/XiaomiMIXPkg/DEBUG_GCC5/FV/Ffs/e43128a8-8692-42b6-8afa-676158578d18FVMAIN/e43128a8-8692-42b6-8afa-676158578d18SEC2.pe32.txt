@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_PE32 -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/e43128a8-8692-42b6-8afa-676158578d18FVMAIN/e43128a8-8692-42b6-8afa-676158578d18SEC2.pe32 /mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/Binary/ULogDxe/ULogDxe.efi

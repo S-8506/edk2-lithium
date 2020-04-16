@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_PE32 -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/10e193df-9966-44e7-b17c-59dd831e20fcFVMAIN/10e193df-9966-44e7-b17c-59dd831e20fcSEC2.pe32 /mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/Binary/ChipInfo/ChipInfo.efi

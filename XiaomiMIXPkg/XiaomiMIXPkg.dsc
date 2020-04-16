@@ -111,8 +111,8 @@
   #
   # ARM General Interrupt Controller
   #
-  gArmTokenSpaceGuid.PcdGicDistributorBase|0x17a00000
-  gArmTokenSpaceGuid.PcdGicRedistributorsBase|0x17b00000
+  gArmTokenSpaceGuid.PcdGicDistributorBase|0x09bc0000
+  gArmTokenSpaceGuid.PcdGicRedistributorsBase|0x09c00000
 
   gArmTokenSpaceGuid.PcdArmArchTimerIntrNum|0x12
   gArmTokenSpaceGuid.PcdArmArchTimerVirtIntrNum|0x13
@@ -139,7 +139,7 @@
 
   gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x80400000
   gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1080
-  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|1920
+  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2040
 
   gEfiMdeModulePkgTokenSpaceGuid.PcdAcpiExposedTableVersions|0x20
 

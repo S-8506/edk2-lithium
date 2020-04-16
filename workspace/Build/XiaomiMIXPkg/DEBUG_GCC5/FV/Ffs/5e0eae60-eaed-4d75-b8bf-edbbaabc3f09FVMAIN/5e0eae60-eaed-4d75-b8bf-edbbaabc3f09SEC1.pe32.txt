@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_PE32 -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/5e0eae60-eaed-4d75-b8bf-edbbaabc3f09FVMAIN/5e0eae60-eaed-4d75-b8bf-edbbaabc3f09SEC1.pe32 /mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/Binary/SecurityDxe/SecurityDxe.efi

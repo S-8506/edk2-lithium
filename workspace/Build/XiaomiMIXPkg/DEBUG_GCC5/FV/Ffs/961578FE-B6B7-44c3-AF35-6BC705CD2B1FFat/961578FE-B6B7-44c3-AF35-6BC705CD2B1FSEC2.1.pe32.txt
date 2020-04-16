@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_PE32 -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/961578FE-B6B7-44c3-AF35-6BC705CD2B1FFat/961578FE-B6B7-44c3-AF35-6BC705CD2B1FSEC2.1.pe32 /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/FatPkg/EnhancedFatDxe/Fat/OUTPUT/Fat.efi

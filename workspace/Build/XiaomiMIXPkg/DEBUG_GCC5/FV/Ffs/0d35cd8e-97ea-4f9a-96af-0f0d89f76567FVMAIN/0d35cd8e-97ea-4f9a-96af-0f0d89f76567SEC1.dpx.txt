@@ -1,1 +1,0 @@
-GenSec -s EFI_SECTION_DXE_DEPEX -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/0d35cd8e-97ea-4f9a-96af-0f0d89f76567FVMAIN/0d35cd8e-97ea-4f9a-96af-0f0d89f76567SEC1.dpx /mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/Binary/UFSDxe/UFSDxe.depex
