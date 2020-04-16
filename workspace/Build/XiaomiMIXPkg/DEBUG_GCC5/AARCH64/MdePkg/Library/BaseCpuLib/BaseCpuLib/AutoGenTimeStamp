@@ -1,0 +1,6 @@
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseCpuLib/BaseCpuLib.inf
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseCpuLib/AArch64/CpuSleep.asm
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseCpuLib/AArch64/CpuSleep.S
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseCpuLib/AArch64/CpuFlushTlb.asm
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseCpuLib/AArch64/CpuFlushTlb.S
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseCpuLib/BaseCpuLib/DEBUG/AutoGen.h

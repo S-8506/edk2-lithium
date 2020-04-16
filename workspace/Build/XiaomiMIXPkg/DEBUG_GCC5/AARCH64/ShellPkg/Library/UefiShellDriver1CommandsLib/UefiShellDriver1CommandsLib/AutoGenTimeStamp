@@ -1,0 +1,17 @@
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/Connect.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/DrvDiag.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/OpenInfo.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/DrvCfg.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/Drivers.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/DevTree.c
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib/DEBUG/UefiShellDriver1CommandsLibStrDefs.h
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/Dh.c
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib/DEBUG/AutoGen.h
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/Devices.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/Reconnect.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib.h
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/Disconnect.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/Unload.c
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib.uni
+/mnt/e/git/for-build/edk2/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib.inf

@@ -1,0 +1,11 @@
+-I/mnt/e/git/for-build/edk2/ArmPkg/Drivers/ArmGic/GicV3/AArch64
+-I/mnt/e/git/for-build/edk2/ArmPkg/Drivers/ArmGic/GicV2
+-I/mnt/e/git/for-build/edk2/ArmPkg/Drivers/ArmGic
+-I/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicLib/DEBUG
+-I/mnt/e/git/for-build/edk2/ArmPkg
+-I/mnt/e/git/for-build/edk2/ArmPkg/Include
+-I/mnt/e/git/for-build/edk2/ArmPlatformPkg
+-I/mnt/e/git/for-build/edk2/ArmPlatformPkg/Include
+-I/mnt/e/git/for-build/edk2/MdePkg
+-I/mnt/e/git/for-build/edk2/MdePkg/Include
+-I/mnt/e/git/for-build/edk2/MdePkg/Include/AArch64

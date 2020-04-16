@@ -1,0 +1,35 @@
+
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Attrib.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/AutoGen.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Cd.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Cp.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Load.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Ls.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Map.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/MkDir.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Mv.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Parse.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Reset.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Rm.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Set.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/TimeDate.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/UefiShellLevel2CommandsLib.obj.deps
+
+-include /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel2CommandsLib/UefiShellLevel2CommandsLib/OUTPUT/Vol.obj.deps
+
+               

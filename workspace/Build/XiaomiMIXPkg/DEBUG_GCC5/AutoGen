@@ -1,0 +1,17 @@
+/mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/CommonDsc.dsc.inc
+/mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/CommonFdf.fdf.inc
+/mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/XiaomiMIXPkg.dec
+/mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/XiaomiMIXPkg.dsc
+/mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/XiaomiMIXPkg.fdf
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/TOOLS_DEF.AARCH64
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/BuildOptions
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/PcdTokenNumber
+/mnt/e/git/for-build/edk2/ArmPkg/ArmPkg.dec
+/mnt/e/git/for-build/edk2/ArmPlatformPkg/ArmPlatformPkg.dec
+/mnt/e/git/for-build/edk2/Conf/build_rule.txt
+/mnt/e/git/for-build/edk2/Conf/tools_def.txt
+/mnt/e/git/for-build/edk2/EmbeddedPkg/EmbeddedPkg.dec
+/mnt/e/git/for-build/edk2/MdeModulePkg/MdeModulePkg.dec
+/mnt/e/git/for-build/edk2/MdePkg/MdePkg.dec
+/mnt/e/git/for-build/edk2/NetworkPkg/NetworkPkg.dec
+/mnt/e/git/for-build/edk2/ShellPkg/ShellPkg.dec

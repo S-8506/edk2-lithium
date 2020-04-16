@@ -1,0 +1,4 @@
+gCommandLineDefines: {'ARCH': 'AARCH64'}
+BuildOptionPcd: []
+Active Platform: /mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/XiaomiMIXPkg.dsc
+Flash Image Definition: /mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/XiaomiMIXPkg.fdf

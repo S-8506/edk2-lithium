@@ -1,0 +1,6 @@
+-I/mnt/e/git/for-build/edk2/MdePkg/Library/BaseCpuLib/AArch64
+-I/mnt/e/git/for-build/edk2/MdePkg/Library/BaseCpuLib
+-I/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseCpuLib/BaseCpuLib/DEBUG
+-I/mnt/e/git/for-build/edk2/MdePkg
+-I/mnt/e/git/for-build/edk2/MdePkg/Include
+-I/mnt/e/git/for-build/edk2/MdePkg/Include/AArch64

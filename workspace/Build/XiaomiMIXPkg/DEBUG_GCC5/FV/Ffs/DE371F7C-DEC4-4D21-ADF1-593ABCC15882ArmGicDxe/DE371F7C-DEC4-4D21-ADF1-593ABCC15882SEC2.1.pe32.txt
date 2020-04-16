@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/DE371F7C-DEC4-4D21-ADF1-593ABCC15882ArmGicDxe/DE371F7C-DEC4-4D21-ADF1-593ABCC15882SEC2.1.pe32 /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicDxe/OUTPUT/ArmGicDxe.efi

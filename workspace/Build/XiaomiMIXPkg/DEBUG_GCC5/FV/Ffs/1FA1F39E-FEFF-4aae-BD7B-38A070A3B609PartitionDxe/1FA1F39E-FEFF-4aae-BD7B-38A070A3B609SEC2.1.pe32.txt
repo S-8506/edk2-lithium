@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/1FA1F39E-FEFF-4aae-BD7B-38A070A3B609PartitionDxe/1FA1F39E-FEFF-4aae-BD7B-38A070A3B609SEC2.1.pe32 /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Disk/PartitionDxe/PartitionDxe/OUTPUT/PartitionDxe.efi

@@ -127,16 +127,6 @@ READ_LOCK_STATUS   = TRUE
       SECTION UI = "SecurityDxe"
     }
 
-    FILE DRIVER = c2f9a4f5-f7b4-43e7-ba99-5ea804cc103a {
-      SECTION PE32 = XiaomiMIXPkg/Binary/ASN1X509Dxe/ASN1X509Dxe.efi
-      SECTION UI = "ASN1X509Dxe"
-    }
-
-    FILE DRIVER = 32c71e68-83a8-46ed-aed1-094e71b12057 {
-      SECTION PE32 = XiaomiMIXPkg/Binary/SecRSADxe/SecRSADxe.efi
-      SECTION UI = "SecRSADxe"
-    }
-
     FILE DRIVER = f541d663-4a48-40aa-aabf-ff158ccae34c {
       SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/SmemDxe/SmemDxe.depex
       SECTION PE32 = XiaomiMIXPkg/Binary/SmemDxe/SmemDxe.efi
@@ -188,9 +178,9 @@ READ_LOCK_STATUS   = TRUE
     }
 
     FILE DRIVER = 4db5dea6-5302-4d1a-8a82-677a683b0d29 {
-      SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/ClockDxe/ClockDxe.depex
-      SECTION PE32 = XiaomiMIXPkg/Binary/ClockDxe/ClockDxe.efi
-      SECTION UI = "ClockDxe"
+      SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/ClockDxeDriver/ClockDxeDriver.depex
+      SECTION PE32 = XiaomiMIXPkg/Binary/ClockDxeDriver/ClockDxeDriver.efi
+      SECTION UI = "ClockDxeDriver"
     }
 
     INF MdeModulePkg/Universal/Disk/DiskIoDxe/DiskIoDxe.inf
@@ -211,12 +201,6 @@ READ_LOCK_STATUS   = TRUE
     INF FatPkg/EnhancedFatDxe/Fat.inf
     INF MdeModulePkg/Universal/Disk/UnicodeCollation/EnglishDxe/EnglishDxe.inf
     INF MdeModulePkg/Universal/FvSimpleFileSystemDxe/FvSimpleFileSystemDxe.inf
-
-    FILE DRIVER = b003d837-44cc-b38b-7811-deb5ebbd74d8 {
-      SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/QdssDxe/QdssDxe.depex
-      SECTION PE32 = XiaomiMIXPkg/Binary/QdssDxe/QdssDxe.efi
-      SECTION UI = "QdssDxe"
-    }
     
     #temporarily
     FILE DRIVER = 02b01ad5-7e59-43e8-a6d8-238180613a5a {
@@ -252,13 +236,7 @@ READ_LOCK_STATUS   = TRUE
       SECTION UI = "SPMI"
     }
 
-    FILE DRIVER = 7a32bd23-f735-4f57-aa1a-447d2fe3be0d {
-      SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/SPI/SPI.depex
-      SECTION PE32 = XiaomiMIXPkg/Binary/SPI/SPI.efi
-      SECTION UI = "SPI"
-    }
-
-    FILE DRIVER = 5776232e-082d-4b75-9a0e-fe1d13f7a5d9 {
+    FILE DRIVER = 1EB2C89E-CE1C-4D35-A9B7-1DC2F3705101 {
       SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/PmicDxe/PmicDxe.depex
       SECTION PE32 = XiaomiMIXPkg/Binary/PmicDxe/PmicDxe.efi
       SECTION UI = "PmicDxe"
@@ -268,12 +246,6 @@ READ_LOCK_STATUS   = TRUE
       SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/AdcDxe/AdcDxe.depex
       SECTION PE32 = XiaomiMIXPkg/Binary/AdcDxe/AdcDxe.efi
       SECTION UI = "AdcDxe"
-    }
-
-    FILE DRIVER = 4bce7f36-428e-4393-99e3-7e0844404dba {
-      SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/QcomChargerDxeLA/QcomChargerDxeLA.depex
-      SECTION PE32 = XiaomiMIXPkg/Binary/QcomChargerDxeLA/QcomChargerDxeLA.efi
-      SECTION UI = "QcomChargerDxeLA"
     }
 
     FILE DRIVER = 5bd181db-0487-4f1a-ae73-820e165611b3 {
@@ -371,17 +343,17 @@ READ_LOCK_STATUS   = TRUE
   INF MdeModulePkg/Universal/Acpi/BootGraphicsResourceTableDxe/BootGraphicsResourceTableDxe.inf
 #  INF RuleOverride = ACPITABLE XiaomiMIXPkg/AcpiTables/AcpiTables.inf
 
-  FILE FREEFORM = 7E374E25-8E01-4FEE-87F2-390C23C606CD {
-	SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/DBG2.aml
-	SECTION RAW = XiaomiMIXPkg/AcpiTables/dsdt.raw
-	SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/FACS.aml
-	SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/FADT.aml
-	SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/GTDT.aml
-	SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/MADT.aml
-	SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/MCFG.aml
-	SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/CSRT.aml
-	SECTION UI = "AcpiTables"
-  }
+  # FILE FREEFORM = 7E374E25-8E01-4FEE-87F2-390C23C606CD {
+	# SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/DBG2.aml
+	# SECTION RAW = XiaomiMIXPkg/AcpiTables/dsdt.raw
+	# SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/FACS.aml
+	# SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/FADT.aml
+	# SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/GTDT.aml
+	# SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/MADT.aml
+	# SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/MCFG.aml
+	# SECTION RAW = XiaomiMIXPkg/AcpiTables/8998/CSRT.aml
+	# SECTION UI = "AcpiTables"
+  # }
 
   #
   # SMBIOS Support
@@ -410,7 +382,7 @@ READ_LOCK_STATUS   = TRUE
   INF XiaomiMIXPkg/Drivers/LogoDxe/LogoDxe.inf
 
   #
-  #Binary DXE drivers from Xiaomi sagit MSM8998
+  #Binary DXE drivers from Xiaomi lithium MSM8996pro
   #
 
 #  FILE DRIVER = 90a49afd-422f-08ae-9611-e788d3804845 {
@@ -422,16 +394,6 @@ READ_LOCK_STATUS   = TRUE
   FILE DRIVER = 5e0eae60-eaed-4d75-b8bf-edbbaabc3f09 {
     SECTION PE32 = XiaomiMIXPkg/Binary/SecurityDxe/SecurityDxe.efi
     SECTION UI = "SecurityDxe"
-  }
-
-  FILE DRIVER = c2f9a4f5-f7b4-43e7-ba99-5ea804cc103a {
-    SECTION PE32 = XiaomiMIXPkg/Binary/ASN1X509Dxe/ASN1X509Dxe.efi
-    SECTION UI = "ASN1X509Dxe"
-  }
-
-  FILE DRIVER = 32c71e68-83a8-46ed-aed1-094e71b12057 {
-    SECTION PE32 = XiaomiMIXPkg/Binary/SecRSADxe/SecRSADxe.efi
-    SECTION UI = "SecRSADxe"
   }
 
   FILE DRIVER = f541d663-4a48-40aa-aabf-ff158ccae34c {
@@ -508,13 +470,7 @@ READ_LOCK_STATUS   = TRUE
 
   INF MdeModulePkg/Universal/FvSimpleFileSystemDxe/FvSimpleFileSystemDxe.inf
 
-  FILE DRIVER = b003d837-44cc-b38b-7811-deb5ebbd74d8 {
-    SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/QdssDxe/QdssDxe.depex
-    SECTION PE32 = XiaomiMIXPkg/Binary/QdssDxe/QdssDxe.efi
-    SECTION UI = "QdssDxe"
-  }
-
-  FILE DRIVER = 02b01ad5-7e59-43e8-a6d8-238180613a5a {
+  FILE DRIVER = 02B01AD5-7E59-43E8-A6D8-238180613A5A {
     SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/EmuVariableRuntimeDxe/EmuVariableRuntimeDxe.depex
     SECTION PE32 = XiaomiMIXPkg/Binary/EmuVariableRuntimeDxe/EmuVariableRuntimeDxe.efi
     SECTION UI = "EmuVariableRuntimeDxe"
@@ -538,13 +494,7 @@ READ_LOCK_STATUS   = TRUE
     SECTION UI = "SPMI"
   }
 
-  FILE DRIVER = 7a32bd23-f735-4f57-aa1a-447d2fe3be0d {
-    SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/SPI/SPI.depex
-    SECTION PE32 = XiaomiMIXPkg/Binary/SPI/SPI.efi
-    SECTION UI = "SPI"
-  }
-
-  FILE DRIVER = 5776232e-082d-4b75-9a0e-fe1d13f7a5d9 {
+  FILE DRIVER = 1EB2C89E-CE1C-4D35-A9B7-1DC2F3705101 {
     SECTION DXE_DEPEX = XiaomiMIXPkg/Binary/PmicDxe/PmicDxe.depex
     SECTION PE32 = XiaomiMIXPkg/Binary/PmicDxe/PmicDxe.efi
     SECTION UI = "PmicDxe"

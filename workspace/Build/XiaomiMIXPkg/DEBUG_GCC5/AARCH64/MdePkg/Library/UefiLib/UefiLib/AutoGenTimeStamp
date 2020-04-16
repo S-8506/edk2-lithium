@@ -1,0 +1,9 @@
+/mnt/e/git/for-build/edk2/MdePkg/Library/UefiLib/UefiLibInternal.h
+/mnt/e/git/for-build/edk2/MdePkg/Library/UefiLib/Console.c
+/mnt/e/git/for-build/edk2/MdePkg/Library/UefiLib/Acpi.c
+/mnt/e/git/for-build/edk2/MdePkg/Library/UefiLib/UefiLibPrint.c
+/mnt/e/git/for-build/edk2/MdePkg/Library/UefiLib/UefiDriverModel.c
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/DEBUG/AutoGen.h
+/mnt/e/git/for-build/edk2/MdePkg/Library/UefiLib/UefiLib.c
+/mnt/e/git/for-build/edk2/MdePkg/Library/UefiLib/UefiNotTiano.c
+/mnt/e/git/for-build/edk2/MdePkg/Library/UefiLib/UefiLib.inf

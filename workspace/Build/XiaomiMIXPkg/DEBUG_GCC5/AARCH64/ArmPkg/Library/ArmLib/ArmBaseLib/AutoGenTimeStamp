@@ -1,0 +1,10 @@
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/AArch64/ArmLibSupportV8.S
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/AArch64/ArmLibSupport.S
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/ArmBaseLib.inf
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64Support.S
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64Lib.c
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/DEBUG/AutoGen.h
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64ArchTimerSupport.S
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64Lib.h
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/ArmLib.c
+/mnt/e/git/for-build/edk2/ArmPkg/Library/ArmLib/ArmLibPrivate.h

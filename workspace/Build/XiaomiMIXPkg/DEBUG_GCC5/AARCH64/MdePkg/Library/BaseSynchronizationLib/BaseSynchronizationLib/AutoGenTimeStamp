@@ -1,0 +1,6 @@
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/DEBUG/AutoGen.h
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib.inf
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLibInternals.h
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseSynchronizationLib/Synchronization.c
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseSynchronizationLib/AArch64/Synchronization.S
+/mnt/e/git/for-build/edk2/MdePkg/Library/BaseSynchronizationLib/AArch64/Synchronization.asm

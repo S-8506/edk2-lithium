@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/3adf8dda-1850-44c5-8c63-bb991849bc6fFVMAIN/3adf8dda-1850-44c5-8c63-bb991849bc6fSEC1.pe32 /mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/Binary/HashDxe/HashDxe.efi

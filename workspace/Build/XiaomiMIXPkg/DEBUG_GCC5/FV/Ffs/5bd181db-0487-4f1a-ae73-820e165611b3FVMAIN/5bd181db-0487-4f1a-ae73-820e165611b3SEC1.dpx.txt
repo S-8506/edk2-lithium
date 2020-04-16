@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_DXE_DEPEX -o /mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/FV/Ffs/5bd181db-0487-4f1a-ae73-820e165611b3FVMAIN/5bd181db-0487-4f1a-ae73-820e165611b3SEC1.dpx /mnt/e/git/for-build/edk2-lithium/XiaomiMIXPkg/Binary/ButtonsDxe/ButtonsDxe.depex

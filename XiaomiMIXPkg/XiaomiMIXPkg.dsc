@@ -139,7 +139,7 @@
 
   gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x80400000
   gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1080
-  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2040
+  gXiaomiMIXPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|1920
 
   gEfiMdeModulePkgTokenSpaceGuid.PcdAcpiExposedTableVersions|0x20
 

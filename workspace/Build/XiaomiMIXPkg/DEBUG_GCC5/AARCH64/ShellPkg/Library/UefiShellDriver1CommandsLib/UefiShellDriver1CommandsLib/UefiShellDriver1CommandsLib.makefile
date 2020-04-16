@@ -1,0 +1,1 @@
+/mnt/e/git/for-build/edk2-lithium/workspace/Build/XiaomiMIXPkg/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellDriver1CommandsLib/UefiShellDriver1CommandsLib/GNUmakefile
