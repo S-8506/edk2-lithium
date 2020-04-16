@@ -97,8 +97,8 @@
   gEfiMdeModulePkgTokenSpaceGuid.PcdFirmwareVersionString|L"Alpha"
 
   # System Memory (4GB)
-  gArmTokenSpaceGuid.PcdSystemMemoryBase|0x80000000
-  gArmTokenSpaceGuid.PcdSystemMemorySize|0xF8000000
+  gArmTokenSpaceGuid.PcdSystemMemoryBase|0x80008000
+  gArmTokenSpaceGuid.PcdSystemMemorySize|0xE8000000
 
   # We only boot one processor here!
   gArmPlatformTokenSpaceGuid.PcdCoreCount|1
