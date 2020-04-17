@@ -1,0 +1,1 @@
+  <program SECTOR_SIZE_IN_BYTES="512" file_sector_offset="0" filename="GPT.bin" label="GPT" num_partition_sectors="4096" partofsingleimage="true" physical_partition_number="0" readbackverify="false" size_in_KB="2048.00" sparse="false" start_byte_hex="0x0" start_sector="0"/>
