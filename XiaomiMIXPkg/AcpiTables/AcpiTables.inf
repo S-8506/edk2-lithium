@@ -25,7 +25,7 @@
   Dsdt.asl
   Dbg2.aslc
   #Spcr.aslc
-  Fadt.aslc
+  #Fadt.aslc
   Gtdt.aslc
   Madt.aslc
   #AcpiSsdtRootPci.asl          # Juno R1 specific
