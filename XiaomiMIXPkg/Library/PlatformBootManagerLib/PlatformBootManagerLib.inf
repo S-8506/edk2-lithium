@@ -41,7 +41,7 @@
   ShellPkg/ShellPkg.dec
   XiaomiMIXPkg/XiaomiMIXPkg.dec
 
-[BuildOptions.AARCH64]
+[BuildOptions.ARM]
   GCC:*_*_*_CC_FLAGS = -Wno-unused-variable
 
 [LibraryClasses]
